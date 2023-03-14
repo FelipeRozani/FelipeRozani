@@ -1,9 +1,7 @@
 ### Oi! Sou o Felipe Rozani.
 
 <div>
-    <a src="https://github.com/FelipeRozani"></a>
-    <img height ="110em" src="https://github-readme-stats.vercel.app/api?username=FelipeRozani&count_private=true&show_icon=true&theme=dracula]https://github.com/FelipeRozani/github-readme-stats"/>
-    <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRozani&hide_progress=true&theme=dracula]https://github.com/FelipeRozani/github-readme-stats"/>
+    <a src="https://github.com/FelipeRozani"></a><img height ="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeRozani&count_private=true&show_icon=true&theme=dracula]https://github.com/FelipeRozani/github-readme-stats"/></a>
 </div>
 
 <div style="display: inline-block;"><br>
@@ -13,4 +11,13 @@
     <img align="center" alt="Fe-ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
     <img align="center" alt="Fe-csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
     <img align="center" alt="Fe-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+</div>
+
+##
+
+<div>
+    <a href="https://www.linkedin.com/in/feliperozani/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+    <a href="mailto: felipe.rozani@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
+    <a href="https://www.instagram.com/_.froza._/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
+    <a href="https://wa.me/qr/4BLMC4IARE3XF1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"/></a>
 </div>
