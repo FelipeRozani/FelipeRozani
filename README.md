@@ -1,12 +1,9 @@
 ### Oi! Sou o Felipe Rozani
 
--  📚 Atualmente estou aprendendo JavaScript
-- 😄 Pronomes: Ele/dele
-
 <div>
     <a src="https://github.com/FelipeRozani"></a>
     <img height ="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeRozani&count_private=true&show_icon=true&theme=dracula]https://github.com/FelipeRozani/github-readme-stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRozani&hide_progress=true&theme=dracula]https://github.com/FelipeRozani/github-readme-stats"/>
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRozani&hide_progress=true&theme=dracula]https://github.com/FelipeRozani/github-readme-stats"/>
 </div>
 
 <div style="display: inline-block;"><br>
