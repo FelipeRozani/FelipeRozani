@@ -1,6 +1,6 @@
 ### Oi! Sou o Felipe Rozani.
 ![FelipeRozani GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeRozani&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRozani&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRozani&layout=compact&theme=tokyonight)](https://github.com/FelipeRozani/github-readme-stats)
 
 <div style="display: inline-block;"><br>
     <img align="center" alt="Fe-html" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
