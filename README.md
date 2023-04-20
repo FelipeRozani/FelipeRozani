@@ -1,8 +1,15 @@
 ### Oi! Sou o Felipe Rozani.
 
-📚 Estudando JavaScript
-🧑‍💻 Fazendo dois cursos no momento(sobre JS e TS, e  React.js e Next.js)
-💻  Construindo o meu próprio Portfólio
+### Veja meu Portfólio!
+
+- https://feliperozani.github.io/Portfolio/
+
+## Estudando no momento
+
+- 📚  JavaScript e TypeScript
+- 🧑‍💻  Fazendo dois cursos no momento (sobre JS e TS, e React.js e Next.js)
+
+##
 
 ![FelipeRozani GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeRozani&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeRozani&layout=compact&theme=tokyonight)](https://github.com/FelipeRozani/github-readme-stats)
